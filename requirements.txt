@@ -1,3 +1,2 @@
-django
-psycopg2
-Django
+Django==4.1.7
+django-admin==2.0.2
