@@ -4,9 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+django-admin = "*"
 shroomdk = "*"
 django = "*"
-psycopg2-binary = "*"
 abacusai = "*"
 beautifulsoup4 = "*"
 
