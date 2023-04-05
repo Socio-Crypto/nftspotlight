@@ -5,14 +5,7 @@ name = "pypi"
 
 [packages]
 shroomdk = "*"
-abacusai = "*"
-beautifulsoup4 = "*"
 django = "*"
-pillow = "*"
-gunicorn = "*"
-whitenoise = "*"
-psycopg2-binary = "*"
-psycopg2 = "*"
 
 [dev-packages]
 
