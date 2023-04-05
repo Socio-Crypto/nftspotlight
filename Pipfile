@@ -7,7 +7,7 @@ name = "pypi"
 django-admin = "*"
 shroomdk = "*"
 django = "*"
-psycopg2-binary = "*"
+psycopg2 = "*"
 
 [dev-packages]
 
