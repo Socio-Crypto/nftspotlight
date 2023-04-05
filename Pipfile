@@ -8,6 +8,7 @@ django-admin = "*"
 shroomdk = "*"
 django = "*"
 psycopg2-binary = "*"
+beautifulsoup4 = "*"
 
 [dev-packages]
 
